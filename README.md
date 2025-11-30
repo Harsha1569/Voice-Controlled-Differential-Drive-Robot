@@ -1,5 +1,5 @@
-# Voice-Controlled-Biped
-The system allows the user to control a simple biped using voice or text commands from an Android device.
+# Voice-Controlled Differential-Drive Robot
+The system allows the user to control a simple Differential-Drive Robot using voice or text commands from an Android device.
 
 ## INTRODUCTION
 *  Utilizes an HM-10 Bluetooth Module and an Arduino Uno R3 to carry out Serial communication (UART) between mobile & MCU using the Dabble app.
